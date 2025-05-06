@@ -59,5 +59,3 @@ Your final score is 10/12
    ```bash
    main.py
    ```
-
----
