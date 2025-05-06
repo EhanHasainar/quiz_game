@@ -57,9 +57,7 @@ Your final score is 10/12
 2. Make sure Python 3 is installed.
 3. Run the quiz from the terminal:
    ```bash
-   python main.py
+   main.py
    ```
 
 ---
-
-Happy Quizzing! 🎉
